@@ -1,0 +1,29 @@
+name: flutterworkshopshellhacks
+description: Bored button project for shellhacks
+
+publish_to:
+
+
+version: 1.0.0+1
+
+environment:
+  sdk:
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.3
+  google_fonts:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - images/
